@@ -1,0 +1,3 @@
+wa.210k.cc {
+        reverse_proxy * postiz:5000
+}
