@@ -1,6 +1,6 @@
 
 ```sh
-ssh fx@8.219.133.174
+ssh wa
 -N9fstk%uzgXj&p..
 ```
 
